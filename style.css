@@ -14,6 +14,7 @@ margin: auto;
 h1 {
     font-family:'Alumni Sans Inline One';
     text-align: center;
+    color: red;
 }
 p {
     font-family:'Rubik Mono One';
@@ -25,5 +26,5 @@ p {
 }
 .fotoline img {
     width: 33%;
-     border-radius:15px;
+    border-radius: ;
 }
