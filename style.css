@@ -27,3 +27,6 @@ p {
     width: 33%;
      border-radius:15px;
 }
+hr {
+    border: 1px solid blue;
+}
