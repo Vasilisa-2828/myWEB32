@@ -1,0 +1,28 @@
+.phototop {
+    width: 100%;
+
+}
+.phototop img {
+  width: 100%;
+}
+main {
+width: 70%;
+margin: auto;
+
+
+}
+h1 {
+    font-family:'Alumni Sans Inline One';
+    text-align: center;
+}
+p {
+    font-family:'Rubik Mono One';
+}
+.fotoline {
+    width:100%;
+    display:flex ;
+    justify-content: space-between;
+}
+.fotoline img {
+    width: 33%;
+}
